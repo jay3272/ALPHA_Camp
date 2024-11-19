@@ -1,29 +1,10 @@
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">C3 後端應用實務</a>
-      <ul>
-        <li><a href="#M1 管理程式碼:Git & GitHub">M1 管理程式碼:Git & GitHub</a></li>
-		<li><a href="#usage">Usage</a></li>
-		<li><a href="#usage">Usage</a></li>
-		<li><a href="#usage">Usage</a></li>
-		<li><a href="#usage">Usage</a></li>
-		<li><a href="#usage">Usage</a></li>
-		<li><a href="#usage">Usage</a></li>
-		<li><a href="#usage">Usage</a></li>
-      </ul>
-    </li>
-  </ol>
-</details>
-
-
 ## C3 後端應用實務
 
 ### M1 管理程式碼:Git & GitHub
 * 
+```bash
+git init
+```
 ### M2 網路概論與 Node.js
 * 
 ### M3 建立第一個網路應用程式
