@@ -1,0 +1,23 @@
+# Node.js 專案
+node_modules/
+.env
+.env.local
+.env.development.local
+.config/
+.pnp.*
+
+# 環境變量
+.env.*
+.next/
+
+# 開發工具
+npm-debug.log*
+yarn-error.log
+yarn-output.log
+
+# VSCode 相關
+.vscode/
+.idea/
+
+# 其他
+.DS_Store
