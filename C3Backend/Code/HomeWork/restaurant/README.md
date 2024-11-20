@@ -16,7 +16,10 @@
 2. 克隆此倉庫到本地機器
 3. 進入項目目錄
 4. 安裝依賴項：
+```bash
+npm install express ejs express-session body-parser morgan dotenv nodemon
 ```
+
 5. 啟動服務：
 ## 使用說明
 
